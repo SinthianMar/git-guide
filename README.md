@@ -222,4 +222,5 @@ Falha ao tentar autenticar com o GitHub, muitas vezes relacionada à autenticaç
 
 Git e GitHub são ferramentas essenciais para o desenvolvimento de software moderno, permitindo versionamento eficiente, controle de alterações e colaboração em equipe. Este guia cobre os erros mais comuns e como corrigir, além de fornecer uma introdução clara sobre como trabalhar com Git e GitHub.
 
-Por [Sinthian Marques ](https://www.linkedin.com/in/sinthianmarques)
+Por [Sinthian Marques ](https://github.com/SinthianMar) | [LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
+
