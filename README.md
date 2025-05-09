@@ -1,9 +1,9 @@
 
 # 🧾  Guia de Versionamento com Git e GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinthianmarques)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinthianMar)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Project](https://img.shields.io/badge/-Project-blueviolet?style=for-the-badge)]()
+[![Project](https://img.shields.io/badge/-Project-blueviolet?style=for-the-badge)](https://github.com/SinthianMar/cadastrodeprodutos)
 
 > **Git** é um sistema de controle de versão distribuído que permite rastrear mudanças no código, colaborar em projetos e manter histórico de versões. Com o Git, é possível gerenciar versões locais de um repositório, enquanto o **GitHub** é uma plataforma de hospedagem de código, que utiliza Git para sincronizar repositórios na nuvem, facilitando a colaboração entre desenvolvedores.
 
